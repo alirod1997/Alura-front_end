@@ -1,4 +1,49 @@
-p{
+body {
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal{
+    background-color: rgb(18, 18, 54);
+    padding: 30px;
+}
+
+h1 {
     text-align: center;
-    color: purple;
+    color: rgb(196, 140, 56);
+}
+
+p {
+    text-align: center;
+    color: rgb(196, 140, 56);
+    font-size: 22px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(196, 140, 56);
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    color: rgb(196, 140, 56);
+}
+
+.item {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #ffffff;
+    padding: 20px;
+}
+
+.imagembeneficios {
+    width: 50%;
+    
 }
