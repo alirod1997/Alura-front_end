@@ -1,6 +1,9 @@
 body {
+    background: #cccccc;
 }
-
+.titulo-principal{
+    padding-left: 20px;
+}
 #banner {
     width: 100%;
 }
@@ -10,7 +13,7 @@ body {
     padding: 30px;
 }
 
-h1 {
+.titulo-centralizado {
     text-align: center;
     color: rgb(196, 140, 56);
 }
@@ -19,11 +22,6 @@ p {
     text-align: center;
     color: rgb(196, 140, 56);
     font-size: 22px;
-}
-
-h2 {
-    text-align: center;
-    color: rgb(196, 140, 56);
 }
 
 ul {
